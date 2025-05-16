@@ -1,0 +1,11 @@
+{
+  "name": "e2e-testing-and-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
