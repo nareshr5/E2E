@@ -1,6 +1,7 @@
 process:
 -used react+vite
--insalled puppeteer
+-installed puppeteer
+-workign on E2E testing
 
 
 
