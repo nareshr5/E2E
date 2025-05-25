@@ -3,6 +3,7 @@ FLOW:
 -create a react app using vite
 -install npm
 -initialize git 
+-working on testing
 
 # React + Vite
 
