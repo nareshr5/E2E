@@ -4,6 +4,7 @@ FLOW:
 -install npm
 -initialize git 
 -working on testing
+-fetch functionality
 
 
 
