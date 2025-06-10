@@ -3,6 +3,7 @@ process:
 -used react+vite
 -installed puppeteer
 -working on E2E testing
+-fetch functionality
 
 
 
