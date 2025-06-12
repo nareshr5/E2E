@@ -5,6 +5,7 @@ FLOW:
 -initialize git 
 -working on testing
 -fetch functionality
+-working on pagination
 
 
 
